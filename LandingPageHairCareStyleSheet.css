@@ -126,6 +126,7 @@ li a {
      height: 30px;
      margin: 15px 0;
      background-color: #86b3af;
+     box-shadow: 2px 2px 3px gray;
  }
 
  #features {
@@ -202,12 +203,13 @@ li a {
 .product > button {
     margin: 15px 0;
     background-color: #86b3af;
-    border: none;
+    border: outset;
     width: 100%;
     padding: 5px;
     font-weight: bold;
     font-size: 15px;
     color: white;
+    box-shadow: 2px 2px 3px gray; 
 
 }
 
